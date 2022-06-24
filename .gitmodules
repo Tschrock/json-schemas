@@ -1,3 +1,6 @@
 [submodule "com.minelittlepony.mson"]
 	path = com.minelittlepony.mson
 	url = https://github.com/Tschrock/mson-json-schema.git
+[submodule "minecraft/bedrock"]
+	path = minecraft/bedrock
+	url = https://github.com/bedrock-studio/bedrock-json-schemas.git
