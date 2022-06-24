@@ -1,0 +1,3 @@
+[submodule "com.minelittlepony.mson"]
+	path = com.minelittlepony.mson
+	url = https://github.com/Tschrock/mson-json-schema.git
